@@ -1,5 +1,10 @@
 📊 Multi-Engine Streamlit Stock Screener for NSE
-that:                                     NOTE --           ((( FOR BETTER PRIDICTION USE MODE 6 - SWING, CVS DATA FECHER AND RELEX MODE FOR LARGE SCALE  )))
+that:
+
+
+NOTE ---((( FOR BETTER PRIDICTION USE MODE 6 - SWING, CVS DATA FECHER AND RELEX MODE FOR LARGE SCALE  )))
+
+Run this in web to Try it https://nse-sentinel-hdgpz35zhy4ovwxgtyaorf.streamlit.app/
 
 downloads market data
 processes it locally (CSV-based)
